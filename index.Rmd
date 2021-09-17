@@ -4,4 +4,3 @@ output: html_notebook
 ---
 # DH-SCIENCE-FICTION-HG_WELLS-JULES_VERNES
 
-![Ashoka University logo](https://www.ashoka.edu.in/admin_assets/global/images/logo/logo-ashoka.png)
