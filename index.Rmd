@@ -46,18 +46,22 @@ INSERT TABLE HERE
 
 In Wells’ corpus, keywords for technology and inventions appear mostly frequently throughout. They appear almost congruent (in the chart) to the mentions of war and violence i.e. when violence mentions are high, mentions of technology are high as well. The keywords used to measure this are as follows: (include table for Wells - machines, inventions etc)
 
+<a href="https://ibb.co/xYBkHN4"><img src="https://i.ibb.co/r3zjsVW/table2.png" alt="table2" border="0"></a> 
 INSERT TABLE HERE
 
 In Verne’s corpus, keywords for technology and inventions appear somewhat frequently throughout. They tend to feature most frequently towards the end of Verne’s writing career. The keywords used to measure this are as follows: (include table for Verne - machines, inventions etc)
 
+<a href="https://ibb.co/ngw6Kwb"><img src="https://i.ibb.co/ZLfGbfV/table3.png" alt="table3" border="0"></a>
 INSERT TABLE HERE
 
 In Verne’s corpus, keywords for war and violence appear somewhat frequently, throughout. The keywords used to measure this are as follows: (include table for Verne - war, violence etc)
 
+<a href="https://ibb.co/4m28Rxv"><img src="https://i.ibb.co/0DKCy34/table4.png" alt="table4" border="0"></a>
 INSERT TABLE HERE
 
 In Verne’s corpus, keywords for travel and transportation appear frequently throughout. The words to measure this are as follows: (include table for Verne - travel, journey, ship etc)
 
+<a href="https://ibb.co/M9gRwy3"><img src="https://i.ibb.co/6Ny49cf/table5.png" alt="table5" border="0"></a><br /><a target='_blank' href='https://freeonlinedice.com/'>d&d dice roller</a><br />
 INSERT TABLE HERE
 
 These frequencies lead us to believe that H. G. Wells and Verne write starkly contrasting novels. More specifically, Wells writes about violent uses of technology and machines more than Verne. Another difference we see arising is that Verne very often writes about voyages and journeying. In addition to this, the absence of mentions of technology lead us to believe that Verne wrote less about “futuristic” inventions as compared to Wells. So while they’re both understood to be the fathers of science fiction, their novels tackle significantly different elements. This goes against the portion of our hypothesis that asserts that Verne writes about the use of technology for travelling and voyages. However, the frequency data does seem corroborate that Verne doesn’t frequently write about violence and technology.
@@ -68,6 +72,7 @@ For our project, we “drilled down” on the keyword pipe for technology and in
 
 H.G. Wells “drill down” on pipe - machine*|mechan*|invent*|device*|engine*
 
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/DtsSpdf/img1.png" alt="img1" border="0"></a><br /><a target='_blank' href='https://freeonlinedice.com/'>dice tool</a><br />
 INSERT PICTURE HERE
 
 ## 6. Collocation/Correlation
@@ -86,6 +91,43 @@ In Wells’ corpus, it is tough to support the hypothesis via collocates of term
 
 
 H.G. Wells’ novels in the corpus do not involve travelling as much as Verne’s do. Moreover, his texts are more aligned towards time travel, collocates of terms ‘travel*’, ‘disco’, even with significantly less count compared to Jules Verne corpurus, have time at top, and also have words like- velocity, speed.  Whereas Jules Verne corpus covers travelling and journeys significantly, especially travel by ships. One may find the word ‘captain’ that appears in collocates and correlations quite prominently.
+
+<a href="https://ibb.co/sjtCCgt"><img src="https://i.ibb.co/4WJ22FJ/tn1.png" alt="tn1" border="0"></a>
+
+<a href="https://ibb.co/tHCbJ84"><img src="https://i.ibb.co/QJm6Krf/t2.png" alt="t2" border="0"></a>
+
+<a href="https://ibb.co/1JpRxH6"><img src="https://i.ibb.co/tPNY5yX/t3.png" alt="t3" border="0"></a>
+
+<a href="https://ibb.co/Tc8qzFK"><img src="https://i.ibb.co/fMpGmP8/t4.png" alt="t4" border="0"></a>
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/3ycSSHB/t5.png" alt="t5" border="0"></a>
+
+<a href="https://ibb.co/b3yVtYY"><img src="https://i.ibb.co/mBYKpdd/t7.png" alt="t7" border="0">
+
+</a><br /><a target='_blank' href='https://freeonlinedice.com/'>random 6 sided dice</a><br />
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/L15C7vT/t8.png" alt="t8" border="0"></a>
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/pP9LZRq/t9.png" alt="t9" border="0"></a>
+
+<a href="https://ibb.co/7GwVgX9"><img src="https://i.ibb.co/rZCMbmW/t10.png" alt="t10" border="0"></a>
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/p0c2Gv3/t11.png" alt="t11" border="0"></a>
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/PwfX98V/t12.png" alt="t12" border="0"></a>
+
+<a href="https://ibb.co/HTrHDV5"><img src="https://i.ibb.co/XxzCZbc/t13.png" alt="t13" border="0"></a>
+
+<a href="https://ibb.co/h8KM5sv"><img src="https://i.ibb.co/w6KLHy1/t14.png" alt="t14" border="0"></a>
+
+<a href="https://ibb.co/hcfpyXJ"><img src="https://i.ibb.co/HCdmVNf/t15.png" alt="t15" border="0"></a>
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/yRSpcq3/t16.png" alt="t16" border="0"></a>
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/p3RKSnv/t17.png" alt="t17" border="0"></a>
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/F8v998S/t18.png" alt="t18" border="0"></a>
+
 
 INSERT TABLE HERE
 
