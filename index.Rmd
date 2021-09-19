@@ -176,6 +176,8 @@ As such, further research into this hypothesis might bear additional or even con
 
 INSERT IMAGE HERE
 
+For Appendix check <a href="https://github.com/HiteshKhandelwal901/voyant_project/blob/main/Appendix.pdf">this</a>
+
 
 
 
