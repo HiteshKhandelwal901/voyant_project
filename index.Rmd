@@ -41,28 +41,23 @@ What does the word frequency analysis tell you about the possible comparisons or
 
 <a href="https://ibb.co/SXbFfYh"><img src="https://i.ibb.co/cc04YfG/new-img.png" alt="new-img" border="0"></a>
 
-INSERT TABLE HERE
-
 
 In Wells’ corpus, keywords for technology and inventions appear mostly frequently throughout. They appear almost congruent (in the chart) to the mentions of war and violence i.e. when violence mentions are high, mentions of technology are high as well. The keywords used to measure this are as follows: (include table for Wells - machines, inventions etc)
 
 <a href="https://ibb.co/xYBkHN4"><img src="https://i.ibb.co/r3zjsVW/table2.png" alt="table2" border="0"></a> 
-INSERT TABLE HERE
 
 In Verne’s corpus, keywords for technology and inventions appear somewhat frequently throughout. They tend to feature most frequently towards the end of Verne’s writing career. The keywords used to measure this are as follows: (include table for Verne - machines, inventions etc)
 
 <a href="https://ibb.co/ngw6Kwb"><img src="https://i.ibb.co/ZLfGbfV/table3.png" alt="table3" border="0"></a>
-INSERT TABLE HERE
 
 In Verne’s corpus, keywords for war and violence appear somewhat frequently, throughout. The keywords used to measure this are as follows: (include table for Verne - war, violence etc)
 
 <a href="https://ibb.co/4m28Rxv"><img src="https://i.ibb.co/0DKCy34/table4.png" alt="table4" border="0"></a>
-INSERT TABLE HERE
 
 In Verne’s corpus, keywords for travel and transportation appear frequently throughout. The words to measure this are as follows: (include table for Verne - travel, journey, ship etc)
 
 <a href="https://ibb.co/M9gRwy3"><img src="https://i.ibb.co/6Ny49cf/table5.png" alt="table5" border="0"></a><br /><a target='_blank' href='https://freeonlinedice.com/'>d&d dice roller</a><br />
-INSERT TABLE HERE
+
 
 These frequencies lead us to believe that H. G. Wells and Verne write starkly contrasting novels. More specifically, Wells writes about violent uses of technology and machines more than Verne. Another difference we see arising is that Verne very often writes about voyages and journeying. In addition to this, the absence of mentions of technology lead us to believe that Verne wrote less about “futuristic” inventions as compared to Wells. So while they’re both understood to be the fathers of science fiction, their novels tackle significantly different elements. This goes against the portion of our hypothesis that asserts that Verne writes about the use of technology for travelling and voyages. However, the frequency data does seem corroborate that Verne doesn’t frequently write about violence and technology.
 
@@ -73,7 +68,7 @@ For our project, we “drilled down” on the keyword pipe for technology and in
 H.G. Wells “drill down” on pipe - machine*|mechan*|invent*|device*|engine*
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/DtsSpdf/img1.png" alt="img1" border="0"></a><br /><a target='_blank' href='https://freeonlinedice.com/'>dice tool</a><br />
-INSERT PICTURE HERE
+
 
 ## 6. Collocation/Correlation
 a. Corpus
@@ -129,7 +124,6 @@ H.G. Wells’ novels in the corpus do not involve travelling as much as Verne’
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/F8v998S/t18.png" alt="t18" border="0"></a>
 
 
-INSERT TABLE HERE
 
 What does “drilling down” into the collocates/correlation tell you about the corpus?
 
@@ -144,7 +138,6 @@ b. Result
 For the purpose of this project, we used bubblelines as our third tool of analysis. Our motivation for this lies in wanting to strengthen the connection between the mentions of technology and violence in Wells’ work, and technology and travel in Verne’s work. While we have observed high frequencies for technology and violence in Wells, bubblelines would show their frequency across the length of a text. Therefore, it would show whether the mentions of technology and violence appear together, which would strengthen or weaken the proposition that they are intertwined themes in the novels. Similarly for Verne, it would show whether the places where travel is mentioned frequently also mention technology. 
 In the case of Wells, the mentions of violence seem to mostly coincide with the mentions of technology, leading us to infer that the two are mentioned together and in similar areas of the texts. In the case of Verne, the mentions of violence seem to somewhat frequently coincide with the mentions of technology, but there are longer sections where technology isn’t mentioned in proximity to violence. This leads us to infer that in Verne’s writing, violence and technology are sometimes written in similar sections of a novel, however they are often referred to independent of one another.  Lastly, for Verne, we looked at the bubblelines for technology and travel and found that the mentions of travel and technology do seem to coincide through the length of a novel. However the mentions of travel heavily outweigh the mentions of technology which make the sample size of technology relatively less reliable to make generalisations about
 
-INSERT IMAGE HERE
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/M7pWDL4/img2.png" alt="img2" border="0"></a>
 
@@ -173,8 +166,6 @@ Creating the pipeline for the terms used for frequency tool also might have miss
 Regardless, the project was extremely illuminating. Both these authors are greatly influential, and seeing how they might have paved the way for future science fiction was very interesting: how some terms that were fictional (aeroplane for example) became non-fiction for instance. The evolution of the authors and the change in their writing style was also another point of great interest and might be a topic of further study.  
 
 As such, further research into this hypothesis might bear additional or even contradictory information. What would happen if other terms were used? What would happen if the corpus was expanded? What would happen if another “Father of Science Fiction”, Hugo Gernsback, was used to compare Wells and Verne? Hopefully, we would have opportunity, expertise (and the time!) to delve further into this field.
-
-INSERT IMAGE HERE
 
 For Appendix check <a href="https://github.com/HiteshKhandelwal901/voyant_project/blob/main/Appendix.pdf">this</a>
 
