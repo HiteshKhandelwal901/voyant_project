@@ -3,7 +3,15 @@
 
 ## 1. Names and group leader
 
-Research Question: How do two late 19th century/early 20th century science fiction authors portray and react to futuristic technology in their popular novels?
+Mukesh (Leader)
+
+Amola
+
+Raunak
+
+Hitesh
+
+## Research Question: How do two late 19th century/early 20th century science fiction authors portray and react to futuristic technology in their popular novels?
 
 ### 2. Hypothesis:
 
@@ -56,7 +64,7 @@ In Verne’s corpus, keywords for war and violence appear somewhat frequently, t
 
 In Verne’s corpus, keywords for travel and transportation appear frequently throughout. The words to measure this are as follows: (include table for Verne - travel, journey, ship etc)
 
-<a href="https://ibb.co/M9gRwy3"><img src="https://i.ibb.co/6Ny49cf/table5.png" alt="table5" border="0"></a><br /><a target='_blank' href='https://freeonlinedice.com/'>d&d dice roller</a><br />
+<a href="https://ibb.co/M9gRwy3"><img src="https://i.ibb.co/6Ny49cf/table5.png" alt="table5" border="0"></a><br />
 
 
 These frequencies lead us to believe that H. G. Wells and Verne write starkly contrasting novels. More specifically, Wells writes about violent uses of technology and machines more than Verne. Another difference we see arising is that Verne very often writes about voyages and journeying. In addition to this, the absence of mentions of technology lead us to believe that Verne wrote less about “futuristic” inventions as compared to Wells. So while they’re both understood to be the fathers of science fiction, their novels tackle significantly different elements. This goes against the portion of our hypothesis that asserts that Verne writes about the use of technology for travelling and voyages. However, the frequency data does seem corroborate that Verne doesn’t frequently write about violence and technology.
@@ -67,7 +75,7 @@ For our project, we “drilled down” on the keyword pipe for technology and in
 
 H.G. Wells “drill down” on pipe - machine*|mechan*|invent*|device*|engine*
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/DtsSpdf/img1.png" alt="img1" border="0"></a><br /><a target='_blank' href='https://freeonlinedice.com/'>dice tool</a><br />
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/DtsSpdf/img1.png" alt="img1" border="0"></a><br />
 
 
 ## 6. Collocation/Correlation
@@ -99,7 +107,7 @@ H.G. Wells’ novels in the corpus do not involve travelling as much as Verne’
 
 <a href="https://ibb.co/b3yVtYY"><img src="https://i.ibb.co/mBYKpdd/t7.png" alt="t7" border="0">
 
-</a><br /><a target='_blank' href='https://freeonlinedice.com/'>random 6 sided dice</a><br />
+</a><br />
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/L15C7vT/t8.png" alt="t8" border="0"></a>
 
