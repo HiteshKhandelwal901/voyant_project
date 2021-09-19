@@ -13,7 +13,7 @@ Hitesh
 
 ## Research Question: How do two late 19th century/early 20th century science fiction authors portray and react to futuristic technology in their popular novels?
 
-### 2. Hypothesis:
+## 2. Hypothesis:
 
 While both authors write about technology and futuristic machinery, H.G. Wells depicts it in a way that veers towards its malevolent and violent uses. In contrast, Jules Verne depicts these advances being used for the purposes of voyaging and discovering hidden worlds. 
 
