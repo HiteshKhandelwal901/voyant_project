@@ -1,12 +1,28 @@
 
-# Introduction
+# Digital Humanities Project 1, Team 10
 
-" None is more powerful than the one who has his mind as slave " 
+## 1. Names and group leader
 
-Hypothesis (to be added)
+Research Question: How do two late 19th century/early 20th century science fiction authors portray and react to futuristic technology in their popular novels?
 
-analysis (to be added )
+### Hypothesis:
 
-results ( to be added)
+While both authors write about technology and futuristic machinery, H.G. Wells depicts it in a way that veers towards its malevolent and violent uses. In contrast, Jules Verne depicts these advances being used for the purposes of voyaging and discovering hidden worlds. 
 
-images/trends (to be added)
+## Corpus Description – What corpus did you create and why  
+
+The corpus this research is based on consists of novels by H.G. Wells and Jules Verne. Both these authors wrote science fiction in the late 19th century and early 20th century and have often been referred to as the fathers of science fiction. The corpus containing Wells’ novels has 22 documents with 1,743,941 total words and 39,231 unique word forms. The corpus containing Verne’s novels has 20 documents with 1,734,737 total words and 33,672 unique word forms. These two authors were chosen to allow a comparison between the work of earlier prominent science fiction writers.
+
+## Summary Paragraph 
+
+Broadly, Verne’s vocabulary usage is very coherent with time, compared to Wells. 
+
+In HG Wells’ corpus, vocabulary density is relatively higher for earlier text compared to the later.
+H. G. Wells wrote some of his shortest novels during the early phase of his writing career, with the length of the corpus increasing on average with works that were published later in time. 
+The average number of words per sentence also tends to increase with works published later in time, with lower words per sentence featuring in his earlier works. While the vocabulary density in Wells’ works peaked in the earliest part of his writing career (with two of the earliest published books: The Time Machine and The Red Room), the vocabulary density was much more mixed with the rest of his works, and did not get as high as in the beginning. 
+
+Wells’ corpus also contains 5572 more unique word-forms than Verne, however this could be attributed to the fact that Verne largely wrote in French and the books in this corpus feature many translated versions of Verne’s works. 
+
+In contrast to Wells, Jules Verne’s works tended to be longer in the beginning of his career as the document length for documents published earlier are higher than those from later on. The vocabulary density of his works are more mixed. The work with the highest vocabulary density, almost double that of the next densest work (In the Year 2889), is rumoured to have been written by Jules Verne’s son, Michel Verne, but published under Jules’ name. The four works with the highest average words per sentence were all published between 1875 to 1881, while works with the lowest words per sentence are from a variety of time periods.
+
+
